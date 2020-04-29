@@ -1,6 +1,6 @@
 
 SilentCamera2 cam = new SilentCamera2(ApplicationContext);
-cam.TakePhotoSilent("front","/sdcard/1.jpg")
+cam.TakeSilentPhoto("front","/sdcard/1.jpg")
 
 //front - front cam
 //back - back cam
